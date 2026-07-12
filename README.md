@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Anchal0610/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0493-reverse-pairs) |
+| [0704-binary-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
