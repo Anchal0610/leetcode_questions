@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Anchal0610/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Anchal0610/leetcode_questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
@@ -193,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anchal0610/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
