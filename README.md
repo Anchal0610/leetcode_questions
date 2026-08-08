@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anchal0610/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Anchal0610/leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anchal0610/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anchal0610/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anchal0610/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Anchal0610/leetcode_questions/tree/master/0160-intersection-of-two-linked-lists) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/Anchal0610/leetcode_questions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Anchal0610/leetcode_questions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0148-sort-list) |
