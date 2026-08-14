@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -279,4 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0020-valid-parentheses) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
