@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal0610/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/Anchal0610/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/Anchal0610/leetcode_questions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Anchal0610/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Anchal0610/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
@@ -323,4 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Anchal0610/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Anchal0610/leetcode_questions/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
