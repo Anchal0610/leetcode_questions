@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/1922-count-good-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/1922-count-good-numbers) |
 ## Z Algorithm
 |  |
 | ------- |
