@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Anchal0610/leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anchal0610/leetcode_questions/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Anchal0610/leetcode_questions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 ## Z Algorithm
