@@ -3,23 +3,19 @@ class Solution {
         int n = nums.length;
         int []dp = new int[n];
         for(int i=0 ; i<n ; i++){
-            Arrays.fill(dp , -1);
+            Arrays.fill(dp , 0);
         }
-        return solve(n-1 , nums , dp);
-    }
-    public int solve(int index , int[] nums , int[]dp){
-        if(index == 0){
-            return nums[index];
-        }
-        if(index < 0){
-            return 0;
-        }
-        if(dp[index] != -1){
-            return dp[index];
-        }
-        int pick = nums[index] + solve(index-2 , nums , dp);
-        int notPick = 0 + solve(index-1 , nums ,dp);
+        dp[0] = nums[0];
+        int neg = 0;
+        for(int i=1 ; i<n ; i++){
+            int take = nums[i];
+            if(i>1){
+                take += dp[i-2];
+            }
+            int notTake = dp[i-1];
 
-        return dp[index] = Math.max(pick , notPick);
+            dp[i] = Math.max(take , notTake);
+        }
+        return dp[n-1];
     }
 }
