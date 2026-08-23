@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Anchal0610/leetcode_questions/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anchal0610/leetcode_questions/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anchal0610/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anchal0610/leetcode_questions/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Anchal0610/leetcode_questions/tree/master/0131-palindrome-partitioning) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Anchal0610/leetcode_questions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Anchal0610/leetcode_questions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/1922-count-good-numbers) |
@@ -399,4 +401,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Anchal0610/leetcode_questions/tree/master/1143-longest-common-subsequence) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
