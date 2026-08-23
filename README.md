@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Anchal0610/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/1901-find-a-peak-element-ii) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anchal0610/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
+| [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Anchal0610/leetcode_questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Anchal0610/leetcode_questions/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/1901-find-a-peak-element-ii) |
+| [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
+| [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
 ## Prefix Sum
 |  |
 | ------- |
