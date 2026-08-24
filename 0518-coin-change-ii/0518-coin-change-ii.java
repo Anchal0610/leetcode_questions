@@ -4,22 +4,21 @@ class Solution {
         int n = coins.length;
         int [][] dp = new int[n][amount+1];
         for(int i=0 ; i<n ; i++){
-            Arrays.fill(dp[i] , -1);
+            Arrays.fill(dp[i] ,0);
         }
-        return findways(n-1 , amount , coins , dp);
-    }
-    public int findways(int index , int amount , int[] coins , int[][]dp){
-        if(index == 0){
-            return (amount%coins[0] == 0 ? 1 : 0);
+        for(int T = 0 ; T<= amount ; T++){
+            dp[0][T] = T%coins[0] == 0 ? 1 : 0;
         }
-        if(dp[index][amount] != -1){
-            return dp[index][amount];
+        for(int i=1 ; i<n ; i++){
+            for(int T= 0 ; T <= amount ; T++){
+                int notTake = dp[i-1][T];
+                int take = 0;
+                if(coins[i] <= T){
+                take = dp[i][T - coins[i]];
+                } 
+                dp[i][T] = take + notTake;
+            }
         }
-        int notTake = findways(index-1 , amount , coins, dp);
-        int take = 0;
-        if(coins[index] <= amount){
-            take = findways(index , amount - coins[index] , coins , dp); 
-        }
-        return dp[index][amount] = take + notTake;
+        return dp[n-1][amount];
     }
 }
