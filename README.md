@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Anchal0610/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/Anchal0610/leetcode_questions/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0056-merge-intervals) |
+| [0064-minimum-path-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anchal0610/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Anchal0610/leetcode_questions/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/Anchal0610/leetcode_questions/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Anchal0610/leetcode_questions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Anchal0610/leetcode_questions/tree/master/0118-pascals-triangle) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Anchal0610/leetcode_questions/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Anchal0610/leetcode_questions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Anchal0610/leetcode_questions/tree/master/0085-maximal-rectangle) |
