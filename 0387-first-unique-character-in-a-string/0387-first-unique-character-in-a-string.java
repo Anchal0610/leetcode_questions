@@ -1,22 +1,15 @@
-class Solution {
-    static final int CHAR = 256;
+class Solution { 
     public int firstUniqChar(String s) {
-       int []FI = new int[CHAR];
-       Arrays.fill(FI, -1);
-       for(int i=0 ; i<s.length() ; i++){
-           if(FI[s.charAt(i)] == -1){
-            FI[s.charAt(i)] = i;
-           }
-           else{
-            FI[s.charAt(i)] = -2;
-           }
-       }
-       int res = Integer.MAX_VALUE;
-       for(int i=0 ; i<CHAR ; i++){
-        if(FI[i] >= 0){
-            res = Math.min(res , FI[i]);
+        HashMap<Character , Integer> map = new HashMap<>();
+        for(char ch : s.toCharArray()){
+            map.put(ch , map.getOrDefault(ch , 0)+1);
         }
-       }
-       return (res == Integer.MAX_VALUE)? -1 : res;
+
+        for(int i=0 ; i<s.length() ; i++){
+            if(map.get(s.charAt(i)) == 1){
+                return i;
+            }
+        }
+        return -1;
     }
 }
