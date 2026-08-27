@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Anchal0610/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/1463-cherry-pickup-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Anchal0610/leetcode_questions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/Anchal0610/leetcode_questions/tree/master/1143-longest-common-subsequence) |
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Anchal0610/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/Anchal0610/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/Anchal0610/leetcode_questions/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
