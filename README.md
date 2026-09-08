@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0493-reverse-pairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Anchal0610/leetcode_questions/tree/master/0496-next-greater-element-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anchal0610/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
 ## Counting
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Anchal0610/leetcode_questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Anchal0610/leetcode_questions/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Anchal0610/leetcode_questions/tree/master/0860-lemonade-change) |
