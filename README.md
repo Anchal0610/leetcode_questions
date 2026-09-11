@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anchal0610/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/Anchal0610/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anchal0610/leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -474,4 +477,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
