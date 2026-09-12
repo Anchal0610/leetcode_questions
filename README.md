@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anchal0610/leetcode_questions/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Anchal0610/leetcode_questions/tree/master/0904-fruit-into-baskets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/Anchal0610/leetcode_questions/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0796-rotate-string) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Anchal0610/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Anchal0610/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Anchal0610/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
