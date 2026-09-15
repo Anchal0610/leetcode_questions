@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Anchal0610/leetcode_questions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Anchal0610/leetcode_questions/tree/master/0907-sum-of-subarray-minimums) |
 | [1143-longest-common-subsequence](https://github.com/Anchal0610/leetcode_questions/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/1463-cherry-pickup-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Anchal0610/leetcode_questions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Anchal0610/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
 ## Prefix Sum
 |  |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Anchal0610/leetcode_questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Stack
 |  |
 | ------- |
