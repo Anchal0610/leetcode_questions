@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anchal0610/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal0610/leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Anchal0610/leetcode_questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/Anchal0610/leetcode_questions/tree/master/0148-sort-list) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
 |  |
@@ -344,11 +349,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Anchal0610/leetcode_questions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -507,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
