@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal0610/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0704-binary-search](https://github.com/Anchal0610/leetcode_questions/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/Anchal0610/leetcode_questions/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/Anchal0610/leetcode_questions/tree/master/0860-lemonade-change) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Anchal0610/leetcode_questions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/Anchal0610/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal0610/leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 ## Counting
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Anchal0610/leetcode_questions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Anchal0610/leetcode_questions/tree/master/0455-assign-cookies) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0678-valid-parenthesis-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Anchal0610/leetcode_questions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
@@ -351,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/Anchal0610/leetcode_questions/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
