@@ -14,21 +14,23 @@
  * }
  */
 class Solution {
-  
+    int maxsum;
     public int maxPathSum(TreeNode root) {
-        int []maxValue = new int[1];
-        maxValue[0] = Integer.MIN_VALUE;
-        maxPathDown(root , maxValue);
-        return maxValue[0];
+        maxsum = Integer.MIN_VALUE;
+        solve(root);
+        return maxsum;        
     }
-    public int maxPathDown(TreeNode root , int[]maxValue){
-    if(root ==  null){
-        return 0;
-    }
-    int left = Math.max(0 ,maxPathDown(root.left , maxValue));
-    int right = Math.max(0 , maxPathDown(root.right , maxValue));
-    maxValue[0] = Math.max(maxValue[0] , left + root.val + right);
+    public int solve(TreeNode root){
+        if(root ==  null){
+            return 0;
+        }
+        int l = solve(root.left);
+        int r = solve(root.right);
+        int neeche_hi_ans_milgaya = l + r + root.val;
+        int koi_ek_achha = Math.max(l,r) + root.val;
+        int only_root_achha = root.val;
+        maxsum = Math.max(maxsum , Math.max(neeche_hi_ans_milgaya , Math.max(koi_ek_achha , only_root_achha)));
 
-    return root.val + Math.max(left , right);   
+        return Math.max(koi_ek_achha , only_root_achha);
     }
 }
