@@ -643,4 +643,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Anchal0610/leetcode_questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Anchal0610/leetcode_questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Anchal0610/leetcode_questions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Anchal0610/leetcode_questions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
