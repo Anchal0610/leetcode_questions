@@ -6,5 +6,5 @@ WITH totalProductId AS(
 )
 SELECT s.product_id , t.first_year , s.quantity , s.price
 FROM Sales s
-JOIN totalProductId t
-WHERE s.product_id = t.product_id AND s.year = t.first_year
+CROSS JOIN totalProductId t
+WHERE s.product_id = t.product_id AND s.year = t.first_year;
