@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/Anchal0610/leetcode_questions/tree/master/2104-sum-of-subarray-ranges) |
 | [2498-frog-jump-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/2498-frog-jump-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3731-find-missing-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Anchal0610/leetcode_questions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Anchal0610/leetcode_questions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Anchal0610/leetcode_questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3731-find-missing-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Anchal0610/leetcode_questions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Anchal0610/leetcode_questions/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Anchal0610/leetcode_questions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3731-find-missing-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/3731-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
