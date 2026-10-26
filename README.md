@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Anchal0610/leetcode_questions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Anchal0610/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Anchal0610/leetcode_questions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Anchal0610/leetcode_questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Anchal0610/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Anchal0610/leetcode_questions/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/Anchal0610/leetcode_questions/tree/master/0451-sort-characters-by-frequency) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Anchal0610/leetcode_questions/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/Anchal0610/leetcode_questions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Anchal0610/leetcode_questions/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Anchal0610/leetcode_questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -361,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Anchal0610/leetcode_questions/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Anchal0610/leetcode_questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Anchal0610/leetcode_questions/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Anchal0610/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Anchal0610/leetcode_questions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1903-largest-odd-number-in-string](https://github.com/Anchal0610/leetcode_questions/tree/master/1903-largest-odd-number-in-string) |
@@ -506,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Anchal0610/leetcode_questions/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Anchal0610/leetcode_questions/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Anchal0610/leetcode_questions/tree/master/0268-missing-number) |
 ## Depth-First Search
 |  |
 | ------- |
